@@ -37,13 +37,13 @@
 实时版：
 
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AdvertisingScript/AdvertisingScript.plugin
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rewrite/Loon/AdvertisingScript/AdvertisingScript.plugin
 
 
 稳定版：
 
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Loon/AdvertisingScript/AdvertisingScript.plugin
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rewrite/Loon/AdvertisingScript/AdvertisingScript.plugin
 
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
@@ -54,10 +54,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/L
 
 如果你正在使用这些复写规则，建议不要与本项目的脚本去广告复写规则混合使用，以免造成规则重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.lnplugin
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.lnplugin
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/bilibili/bilibili_plus.sgmodule
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/smzdm/smzdm_remove_ads.lnplugin
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/startup/startup.sgmodule
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/zhihu/zhihu_plus.lnplugin
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

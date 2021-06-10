@@ -9,7 +9,7 @@
 请通过我国(中华人民共和国)合法的互联网出入口信道访问规则中的地址，并确保在使用过程中符合相关法律法规。
 
 ## 规则说明
-本分流规则，需要搭配 https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu 使用。
+本分流规则，需要搭配 https://github.com/Kosette/ios_rule_script/tree/master/script/zhihu 使用。
 
 ## MITM
 知乎广告拦截分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要使用MITM才能生效。
@@ -38,11 +38,11 @@
 ### Shadowrocket 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ZhihuAds/ZhihuAds.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Shadowrocket/ZhihuAds/ZhihuAds.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/ZhihuAds/ZhihuAds.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Shadowrocket/ZhihuAds/ZhihuAds.list
 
 
 
@@ -59,7 +59,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shad
 
 如果你正在使用这些复写规则，建议不要与本项目的知乎广告拦截复写规则混合使用，以免造成规则重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_remove_ads.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/zhihu/zhihu_remove_ads.list
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

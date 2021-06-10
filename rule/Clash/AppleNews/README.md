@@ -31,12 +31,12 @@ DOMAIN,gspe1-ssl.ls.apple.com  必要，但会导致「地图」使用「TOMTOM�
 ### Clash 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleNews/AppleNews.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Clash/AppleNews/AppleNews.yaml
 
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/AppleNews/AppleNews.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Clash/AppleNews/AppleNews.yaml
 
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。

@@ -30,11 +30,11 @@
 ### Loon 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Apple/Apple.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Loon/Apple/Apple.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Apple/Apple.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Loon/Apple/Apple.list
 
 
 
@@ -105,9 +105,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 - https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Basic/Apple-proxy.list
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/apple.txt
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/icloud.txt
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppStore/AppStore.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppleBlock/AppleBlock.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/TestFlight/TestFlight.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/AppStore/AppStore.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/AppleBlock/AppleBlock.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/TestFlight/TestFlight.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Apple_API.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Apple_CDN.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Apple.list

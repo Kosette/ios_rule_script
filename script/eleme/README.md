@@ -33,7 +33,7 @@
 
 使用模块
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.sgmodule
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/eleme/eleme_daily.sgmodule
 
 ### Loon
 
@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/ele
 
 ```ini
 [Remote Script]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.lnscript, tag=饿了么_领取吃货豆及任务, enabled=true
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/eleme/eleme_daily.lnscript, tag=饿了么_领取吃货豆及任务, enabled=true
 ```
 
 ### Quantumult X
@@ -50,11 +50,11 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/ele
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.qxrewrite, tag=饿了么_获取Cookie, enabled=true
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/eleme/eleme_daily.qxrewrite, tag=饿了么_获取Cookie, enabled=true
 
 [task_local]
-10 00 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.js, tag=饿了么_领取吃货豆, enabled=true
-00 10 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_mission.js, tag=饿了么_领取会员任务, enabled=true
+10 00 * * * https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/eleme/eleme_daily.js, tag=饿了么_领取吃货豆, enabled=true
+00 10 * * * https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/eleme/eleme_mission.js, tag=饿了么_领取会员任务, enabled=true
 ```
 
 ## 获取Cookie
@@ -67,7 +67,7 @@ MagicJS利用Bark，实现了跨设备的统一推送能力，将多个iOS设备
 
 执行效果图，以饿了么为例：
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/images/bark.jpg)
+![](https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/eleme/images/bark.jpg)
 
 ### 开启统一推送
 

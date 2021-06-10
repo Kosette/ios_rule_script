@@ -33,16 +33,16 @@
 ### Clash 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
 
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
 
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
@@ -78,8 +78,8 @@ AdvertisingLite_Classical.yaml 可以单独使用，其他规则必须同时使�
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
 - https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/Advertising.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/Advertising/Advertising.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Liby.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Tide.list
 - https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Reject.list

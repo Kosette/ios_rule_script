@@ -27,11 +27,11 @@
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ByteDance/ByteDance.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Surge/ByteDance/ByteDance.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ByteDance/ByteDance.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Surge/ByteDance/ByteDance.list
 
 
 
@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ByteDance.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ByteDance.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/ByteDance/ByteDance.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/ByteDance/ByteDance.list
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

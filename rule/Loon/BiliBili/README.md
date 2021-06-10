@@ -28,11 +28,11 @@
 ### Loon 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BiliBili/BiliBili.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Loon/BiliBili/BiliBili.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/BiliBili/BiliBili.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Loon/BiliBili/BiliBili.list
 
 
 

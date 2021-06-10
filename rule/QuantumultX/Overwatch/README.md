@@ -26,11 +26,11 @@
 ### QuantumultX 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Overwatch/Overwatch.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/QuantumultX/Overwatch/Overwatch.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Overwatch/Overwatch.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/QuantumultX/Overwatch/Overwatch.list
 
 
 

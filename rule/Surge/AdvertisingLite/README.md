@@ -39,15 +39,15 @@
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingLite/AdvertisingLite.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Surge/AdvertisingLite/AdvertisingLite.list
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingLite/AdvertisingLite_Domain.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Surge/AdvertisingLite/AdvertisingLite_Domain.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/AdvertisingLite/AdvertisingLite.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Surge/AdvertisingLite/AdvertisingLite.list
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/AdvertisingLite/AdvertisingLite_Domain.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Surge/AdvertisingLite/AdvertisingLite_Domain.list
 
 
 
@@ -82,8 +82,8 @@ AdvertisingLite_Domain.list 请使用DOMAIN-SET。
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
 - https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/Advertising.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/Advertising/Advertising.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Liby.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Tide.list
 - https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Reject.list

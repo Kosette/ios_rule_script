@@ -27,11 +27,11 @@
 ### QuantumultX 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/SystemOTA/SystemOTA.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/QuantumultX/SystemOTA/SystemOTA.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/SystemOTA/SystemOTA.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/QuantumultX/SystemOTA/SystemOTA.list
 
 
 
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/SoftwareUpdate.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/BlockiOSUpdate.list
 - https://raw.githubusercontent.com/an0na/R/master/Filter/IOS_OTA.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/SystemOTA/SystemOTA.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/SystemOTA/SystemOTA.list
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

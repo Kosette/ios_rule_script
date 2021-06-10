@@ -38,16 +38,16 @@ AdvertisingLite 不直接抽取数据源中MITM的hostname，仅用正则推导�
 实时版：
 
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite_Classical.sgmodule
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite_Classical.sgmodule
 
 稳定版：
 
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Surge/AdvertisingLite/AdvertisingLite_Classical.sgmodule
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rewrite/Surge/AdvertisingLite/AdvertisingLite_Classical.sgmodule
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
 
@@ -74,9 +74,9 @@ AdvertisingLite_Classical.sgmodule 采用传统的reject方式直接拒绝请求
 - https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/RewriteRules.sgmodule
 - https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Advertising.conf
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Loon/Rewrite.conf
 - https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Rewrite.txt
 - https://raw.githubusercontent.com/githubacct001/QuantumultX/master/Rewrite/githubacct001.conf

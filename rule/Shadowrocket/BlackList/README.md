@@ -34,11 +34,11 @@
 ### Shadowrocket 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BlackList/BlackList.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Shadowrocket/BlackList/BlackList.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/BlackList/BlackList.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Shadowrocket/BlackList/BlackList.list
 
 
 
@@ -55,8 +55,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shad
 
 如果你正在使用这些复写规则，建议不要与本项目的BlackList复写规则混合使用，以免造成规则重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppleBlock/AppleBlock.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/BlackList/BlackList.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/AppleBlock/AppleBlock.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/BlackList/BlackList.list
 - https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Proxy.list
 
 

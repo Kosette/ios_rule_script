@@ -28,11 +28,11 @@
 ### Loon 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/My5/My5.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Loon/My5/My5.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/My5/My5.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Loon/My5/My5.list
 
 
 

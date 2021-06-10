@@ -38,11 +38,11 @@
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WhiteList/WhiteList.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Surge/WhiteList/WhiteList.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/WhiteList/WhiteList.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Surge/WhiteList/WhiteList.list
 
 
 
@@ -62,7 +62,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Unbreak.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/WhiteList/WhiteList.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/WhiteList/WhiteList.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Unbreak.list
 
 

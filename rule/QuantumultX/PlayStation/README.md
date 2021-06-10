@@ -26,11 +26,11 @@
 ### QuantumultX 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/PlayStation/PlayStation.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/QuantumultX/PlayStation/PlayStation.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/PlayStation/PlayStation.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/QuantumultX/PlayStation/PlayStation.list
 
 
 
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 如果你正在使用这些复写规则，建议不要与本项目的PlayStation复写规则混合使用，以免造成规则重复。
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/PlayStation.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/PlayStation/PlayStation.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/PlayStation/PlayStation.list
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

@@ -33,11 +33,11 @@
 ### QuantumultX 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Google/Google.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/QuantumultX/Google/Google.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Google/Google.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/QuantumultX/Google/Google.list
 
 
 
@@ -69,7 +69,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Google/GoogleVoice.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Google.list
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/google.txt
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Google/Google.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/Google/Google.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Google.list
 
 

@@ -26,11 +26,11 @@
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/4399/4399.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Surge/4399/4399.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/4399/4399.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Surge/4399/4399.list
 
 
 

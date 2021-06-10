@@ -33,11 +33,11 @@
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Surge/Game/Game.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Game/Game.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Surge/Game/Game.list
 
 
 
@@ -139,8 +139,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/UBI.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Xbox.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Garena.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/PlayStation/PlayStation.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Rockstar/Rockstar.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/PlayStation/PlayStation.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/Rockstar/Rockstar.list
 - https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Steam.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Games/Epic.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Games/GamesAll.list

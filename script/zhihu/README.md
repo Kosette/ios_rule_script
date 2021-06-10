@@ -17,7 +17,7 @@
 7. 去除知乎直播红点
 8. 去除知乎指南提示
 9. 去除未读消息的红点
-10. 知乎网页版去广告 [#21](https://github.com/blackmatrix7/ios_rule_script/issues/21)
+10. 知乎网页版去广告 [#21](https://github.com/Kosette/ios_rule_script/issues/21)
 11. 拦截知乎内测邀请
 12. 去除预置关键字广告(beta)
 13. 去除热搜内的广告(beta)
@@ -112,7 +112,7 @@
 
 与会员真正的屏蔽关键词功能相比，执行效率和匹配范围都较差，所以限制只能设置10个关键词。关键词是与整个JSON字符串进行比较，所以在设置关键词时，尽量不要使用英文和标点，否则一旦和JSON对象的key相同，会导致推荐列表无任何显示。如果一定要使用英文单词和标点，务必清楚自己在做什么。
 
-<img src="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/images/06.jpg" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/zhihu/images/06.jpg" style="zoom:50%;" />
 
 #### 小技巧
 
@@ -128,13 +128,13 @@
 
 浅色/深色效果如下图：
 
-<img src="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/images/04.jpg" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/zhihu/images/04.jpg" style="zoom:50%;" />
 
 ### 推广内容提醒(beta)
 
 遇到含有营销推广/购物推广内容的回答时，会将含有推广内容的提醒置顶，自行判断是否继续阅读。
 
-<img src="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/images/05.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/zhihu/images/05.png" style="zoom:50%;" />
 
 ### 精简顶部标签页
 
@@ -160,11 +160,11 @@
 
 每次添加或移除黑名单用户，脚本内置的黑名单也会同步更新。
 
-<img src="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/images/01.jpg" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/zhihu/images/01.jpg" style="zoom:50%;" />
 
-<img src="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/images/03.jpg" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/zhihu/images/03.jpg" style="zoom:50%;" />
 
-<img src="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/images/02.jpg" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/zhihu/images/02.jpg" style="zoom:50%;" />
 
 ## 配置说明(Plus)
 
@@ -173,14 +173,14 @@
 使用模块
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.sgmodule
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/zhihu/zhihu_plus.sgmodule
 ```
 
 ### Loon
 
 ```ini
 [Plugin]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.lnplugin, tag=知乎助手_去广告及体验增强, enabled=true
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/zhihu/zhihu_plus.lnplugin, tag=知乎助手_去广告及体验增强, enabled=true
 ```
 
 ### Quantumult X
@@ -200,7 +200,7 @@ HOST,appcloud2.in.zhihu.com,REJECT
 USER-AGENT,AVOS*,REJECT
 
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.qxrewrite, tag=知乎助手_去广告及体验增强, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/zhihu/zhihu_plus.qxrewrite, tag=知乎助手_去广告及体验增强, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 ## 配置说明(Lite)
@@ -212,14 +212,14 @@ Plus版本功能较多，需要消耗较多的系统资源。如果出现VPN自�
 使用模块
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_lite.sgmodule
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/zhihu/zhihu_lite.sgmodule
 ```
 
 ### Loon
 
 ```ini
 [Plugin]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_lite.lnplugin, tag=知乎助手_去广告, enabled=true
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/zhihu/zhihu_lite.lnplugin, tag=知乎助手_去广告, enabled=true
 ```
 
 #### Quantumult X
@@ -239,7 +239,7 @@ HOST,appcloud2.in.zhihu.com,REJECT
 USER-AGENT,AVOS*,REJECT
 
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_lite.qxrewrite, tag=知乎助手_去广告, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/zhihu/zhihu_lite.qxrewrite, tag=知乎助手_去广告, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 ## 其他问题
@@ -254,7 +254,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhi
 
 ### Quantumult X 偶尔加载失败
 
-参考 https://github.com/blackmatrix7/ios_rule_script/issues/268 。
+参考 https://github.com/Kosette/ios_rule_script/issues/268 。
 
 ## 最后
 

@@ -38,13 +38,13 @@
 实时版：
 
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AllInOne/AllInOne.plugin
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rewrite/Loon/AllInOne/AllInOne.plugin
 
 
 稳定版：
 
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Loon/AllInOne/AllInOne.plugin
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rewrite/Loon/AllInOne/AllInOne.plugin
 
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
@@ -65,13 +65,13 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/L
 - https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/RewriteRules.sgmodule
 - https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Advertising.conf
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.lnplugin
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.lnplugin
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/bilibili/bilibili_plus.sgmodule
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/smzdm/smzdm_remove_ads.lnplugin
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/startup/startup.sgmodule
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/zhihu/zhihu_plus.lnplugin
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Loon/Rewrite.conf
 - https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Rewrite.txt
 - https://raw.githubusercontent.com/githubacct001/QuantumultX/master/Rewrite/githubacct001.conf

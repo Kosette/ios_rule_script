@@ -31,16 +31,16 @@
 ### Clash 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global_Domain.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global_Classical.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Clash/Global/Global.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Clash/Global/Global_Domain.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Clash/Global/Global_Classical.yaml
 
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Global/Global.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Global/Global_Domain.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Global/Global_Classical.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Clash/Global/Global.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Clash/Global/Global_Domain.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Clash/Global/Global_Classical.yaml
 
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
@@ -85,8 +85,8 @@ Global_Classical.yaml 可以单独使用，其他规则必须同时使用。
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/gfw.txt
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/greatfire.txt
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/BlackList/BlackList.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Proxy/Proxy.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/BlackList/BlackList.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/Proxy/Proxy.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Global.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/AppleGlobal.list
 - https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Proxy.list

@@ -30,16 +30,16 @@
 实时版：
 
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/Upgrade/Upgrade.sgmodule
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rewrite/Surge/Upgrade/Upgrade.sgmodule
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/Upgrade/Upgrade_Classical.sgmodule
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rewrite/Surge/Upgrade/Upgrade_Classical.sgmodule
 
 稳定版：
 
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Surge/Upgrade/Upgrade.sgmodule
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rewrite/Surge/Upgrade/Upgrade.sgmodule
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Surge/Upgrade/Upgrade_Classical.sgmodule
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rewrite/Surge/Upgrade/Upgrade_Classical.sgmodule
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
 
@@ -57,7 +57,7 @@ Upgrade_Classical.sgmodule 采用传统的reject方式直接拒绝请求。
 
 如果你正在使用这些复写规则，建议不要与本项目的更新检查复写规则混合使用，以免造成规则重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

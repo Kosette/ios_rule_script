@@ -28,11 +28,11 @@
 ### Shadowrocket 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Hijacking/Hijacking.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Shadowrocket/Hijacking/Hijacking.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/Hijacking/Hijacking.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Shadowrocket/Hijacking/Hijacking.list
 
 
 

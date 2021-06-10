@@ -28,11 +28,11 @@
 ### Loon 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Facebook/Facebook.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Loon/Facebook/Facebook.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Facebook/Facebook.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Loon/Facebook/Facebook.list
 
 
 
@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 如果你正在使用这些复写规则，建议不要与本项目的Facebook复写规则混合使用，以免造成规则重复。
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Facebook.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Facebook/Facebook.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/Facebook/Facebook.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/SNS/Facebook.list
 
 

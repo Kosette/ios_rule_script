@@ -24,7 +24,7 @@
 
 执行效果如下，会显示昵称、级别、经验值变动总数、经验值变动明细、任务完成情况。
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/images/01.png)
+![](https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/smzdm/images/01.png)
 
 ### 配置说明
 
@@ -32,7 +32,7 @@
 
 ##### **安装模块**
 
-Surge推荐使用模块进行部署，模块地址：https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.sgmodule
+Surge推荐使用模块进行部署，模块地址：https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/smzdm/smzdm_signin.sgmodule
 
 ### Loon
 
@@ -42,7 +42,7 @@ Surge推荐使用模块进行部署，模块地址：https://raw.githubuserconte
 
 ```ini
 [Remote Script]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.lnscript, tag=什么值得买_每日签到, enabled=true
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/smzdm/smzdm_signin.lnscript, tag=什么值得买_每日签到, enabled=true
 ```
 
 ### Quantumult X
@@ -51,10 +51,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smz
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.qxrewrite, tag=什么值得买_获取Cookie, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/smzdm/smzdm_signin.qxrewrite, tag=什么值得买_获取Cookie, update-interval=86400, opt-parser=false, enabled=true
 
 [task_local]
-5 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.js, tag=什么值得买每日签到
+5 0 * * * https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/smzdm/smzdm_signin.js, tag=什么值得买每日签到
 ```
 
 ### 使用说明
@@ -86,14 +86,14 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smz
 hostname = homepage-api.smzdm.com, haojia-api.smzdm.com, article-api.smzdm.com
 
 [Script]
-什么值得买_首页去广告 = type=http-response,requires-body=1,max-size=0,pattern=^https:\/\/homepage-api.smzdm.com\/home,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.js
-什么值得买_好价去广告 = type=http-response,requires-body=1,max-size=0,pattern=^https:\/\/haojia-api.smzdm.com\/home\/list,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.js
-什么值得买_好文去广告 = type=http-response,requires-body=1,max-size=0,pattern=^https:\/\/article-api.smzdm.com\/article\/index_home_page,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.js
+什么值得买_首页去广告 = type=http-response,requires-body=1,max-size=0,pattern=^https:\/\/homepage-api.smzdm.com\/home,script-path=https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/smzdm/smzdm_remove_ads.js
+什么值得买_好价去广告 = type=http-response,requires-body=1,max-size=0,pattern=^https:\/\/haojia-api.smzdm.com\/home\/list,script-path=https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/smzdm/smzdm_remove_ads.js
+什么值得买_好文去广告 = type=http-response,requires-body=1,max-size=0,pattern=^https:\/\/article-api.smzdm.com\/article\/index_home_page,script-path=https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/smzdm/smzdm_remove_ads.js
 ```
 
 ##### 模块安装
 
-模块地址： https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.sgmodule
+模块地址： https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/smzdm/smzdm_remove_ads.sgmodule
 
 ### Loon
 
@@ -101,7 +101,7 @@ hostname = homepage-api.smzdm.com, haojia-api.smzdm.com, article-api.smzdm.com
 
 ```ini
 [Remote Script]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.lnscript, tag=什么值得买_去广告, enabled=true
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/smzdm/smzdm_remove_ads.lnscript, tag=什么值得买_去广告, enabled=true
 ```
 
 ### Quantumult X
@@ -110,7 +110,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smz
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.qxrewrite, tag=什么值得买_去广告, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/smzdm/smzdm_remove_ads.qxrewrite, tag=什么值得买_去广告, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 ## 统一推送
@@ -119,7 +119,7 @@ MagicJS利用Bark，实现了跨设备的统一推送能力，将多个iOS设备
 
 执行效果图，以饿了么为例：
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/images/bark.jpg)
+![](https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/eleme/images/bark.jpg)
 
 ### 开启统一推送
 

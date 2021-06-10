@@ -26,11 +26,11 @@
 ### Shadowrocket 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Heroku/Heroku.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Shadowrocket/Heroku/Heroku.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/Heroku/Heroku.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Shadowrocket/Heroku/Heroku.list
 
 
 

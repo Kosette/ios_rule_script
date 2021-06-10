@@ -26,11 +26,11 @@
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NYPost/NYPost.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Surge/NYPost/NYPost.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/NYPost/NYPost.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Surge/NYPost/NYPost.list
 
 
 

@@ -31,12 +31,12 @@
 ### Clash 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/WhiteList/WhiteList.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Clash/WhiteList/WhiteList.yaml
 
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/WhiteList/WhiteList.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Clash/WhiteList/WhiteList.yaml
 
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Unbreak.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/WhiteList/WhiteList.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/WhiteList/WhiteList.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Unbreak.list
 
 

@@ -29,13 +29,13 @@
 实时版：
 
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Upgrade/Upgrade.plugin
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rewrite/Loon/Upgrade/Upgrade.plugin
 
 
 稳定版：
 
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Loon/Upgrade/Upgrade.plugin
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rewrite/Loon/Upgrade/Upgrade.plugin
 
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/L
 
 如果你正在使用这些复写规则，建议不要与本项目的更新检查复写规则混合使用，以免造成规则重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

@@ -27,12 +27,12 @@
 ### Clash 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SystemOTA/SystemOTA.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Clash/SystemOTA/SystemOTA.yaml
 
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/SystemOTA/SystemOTA.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Clash/SystemOTA/SystemOTA.yaml
 
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/SoftwareUpdate.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/BlockiOSUpdate.list
 - https://raw.githubusercontent.com/an0na/R/master/Filter/IOS_OTA.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/SystemOTA/SystemOTA.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/SystemOTA/SystemOTA.list
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

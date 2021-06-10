@@ -27,15 +27,15 @@
 ### Loon 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Alibaba/Alibaba.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Loon/Alibaba/Alibaba.list
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Alibaba/Alibaba_Domain.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Loon/Alibaba/Alibaba_Domain.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Alibaba/Alibaba.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Loon/Alibaba/Alibaba.list
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Alibaba/Alibaba_Domain.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Loon/Alibaba/Alibaba_Domain.list
 
 
 

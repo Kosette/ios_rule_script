@@ -26,11 +26,11 @@
 ### Shadowrocket 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Shopify/Shopify.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Shadowrocket/Shopify/Shopify.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/Shopify/Shopify.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Shadowrocket/Shopify/Shopify.list
 
 
 

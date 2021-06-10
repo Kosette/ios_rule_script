@@ -27,11 +27,11 @@
 ### Shadowrocket 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/KugouKuwo/KugouKuwo.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Shadowrocket/KugouKuwo/KugouKuwo.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/KugouKuwo/KugouKuwo.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Shadowrocket/KugouKuwo/KugouKuwo.list
 
 
 

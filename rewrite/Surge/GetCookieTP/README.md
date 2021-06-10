@@ -31,13 +31,13 @@
 实时版：
 
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/GetCookieTP/GetCookieTP.sgmodule
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rewrite/Surge/GetCookieTP/GetCookieTP.sgmodule
 
 
 稳定版：
 
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Surge/GetCookieTP/GetCookieTP.sgmodule
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rewrite/Surge/GetCookieTP/GetCookieTP.sgmodule
 
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
@@ -49,19 +49,19 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/S
 如果你正在使用这些复写规则，建议不要与本项目的获取签到脚本Cookie(含第三方脚本)复写规则混合使用，以免造成规则重复。
 
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/GetCookie.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_signin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didachuxing/didachuxing_plus.lnscript
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/dingdong/dingdong_checkin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/famijia/famijia_checkin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/jiazhangbang/jiazhangbang_checkin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/luka/luka_signin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.lnscript
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/meituan/maicai_checkin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_checkin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wanda/wanda_checkin.sgmodule
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/10010/unicom_signin.sgmodule
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/didachuxing/didachuxing_plus.lnscript
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/didichuxing/didi_checkin.sgmodule
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/dingdong/dingdong_checkin.sgmodule
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/eleme/eleme_daily.sgmodule
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/famijia/famijia_checkin.sgmodule
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/jiazhangbang/jiazhangbang_checkin.sgmodule
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/luka/luka_signin.sgmodule
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.lnscript
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/meituan/maicai_checkin.sgmodule
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/smzdm/smzdm_signin.sgmodule
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/tieba/tieba_checkin.sgmodule
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/wanda/wanda_checkin.sgmodule
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

@@ -27,11 +27,11 @@
 ### Loon 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GoogleDrive/GoogleDrive.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Loon/GoogleDrive/GoogleDrive.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/GoogleDrive/GoogleDrive.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Loon/GoogleDrive/GoogleDrive.list
 
 
 

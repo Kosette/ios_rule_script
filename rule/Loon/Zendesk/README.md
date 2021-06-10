@@ -26,11 +26,11 @@
 ### Loon 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Zendesk/Zendesk.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Loon/Zendesk/Zendesk.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Zendesk/Zendesk.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Loon/Zendesk/Zendesk.list
 
 
 

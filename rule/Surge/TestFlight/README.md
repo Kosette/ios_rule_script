@@ -27,11 +27,11 @@
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TestFlight/TestFlight.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Surge/TestFlight/TestFlight.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/TestFlight/TestFlight.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Surge/TestFlight/TestFlight.list
 
 
 
@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/TestFlight.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/TestFlight.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/TestFlight/TestFlight.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/TestFlight/TestFlight.list
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

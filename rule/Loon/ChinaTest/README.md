@@ -31,15 +31,15 @@
 ### Loon 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaTest/ChinaTest.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Loon/ChinaTest/ChinaTest.list
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaTest/ChinaTest_Domain.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Loon/ChinaTest/ChinaTest_Domain.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/ChinaTest/ChinaTest.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Loon/ChinaTest/ChinaTest.list
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/ChinaTest/ChinaTest_Domain.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Loon/ChinaTest/ChinaTest_Domain.list
 
 
 
@@ -65,7 +65,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list
 - https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Basic/CN.list
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/China/China.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Domestic.list
 - https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Domestic.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/China.list

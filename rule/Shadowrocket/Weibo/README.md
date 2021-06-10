@@ -27,11 +27,11 @@
 ### Shadowrocket 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Weibo/Weibo.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Shadowrocket/Weibo/Weibo.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/Weibo/Weibo.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Shadowrocket/Weibo/Weibo.list
 
 
 
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shad
 
 如果你正在使用这些复写规则，建议不要与本项目的微博复写规则混合使用，以免造成规则重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Weibo/Weibo.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/Weibo/Weibo.list
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

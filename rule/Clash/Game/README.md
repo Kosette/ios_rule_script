@@ -32,12 +32,12 @@
 ### Clash 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Game.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Clash/Game/Game.yaml
 
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Game/Game.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Clash/Game/Game.yaml
 
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
@@ -138,8 +138,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/UBI.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Xbox.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Garena.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/PlayStation/PlayStation.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Rockstar/Rockstar.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/PlayStation/PlayStation.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/Rockstar/Rockstar.list
 - https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Steam.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Games/Epic.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Games/GamesAll.list

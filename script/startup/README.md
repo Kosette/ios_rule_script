@@ -14,7 +14,7 @@
 
 使用模块
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.sgmodule
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/startup/startup.sgmodule
 
 ### Loon
 
@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/sta
 
 ```ini
 [Plugin]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.lnplugin, tag=开屏去广告, enabled=true
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/startup/startup.lnplugin, tag=开屏去广告, enabled=true
 ```
 
 ### Quantumult X
@@ -31,5 +31,5 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/sta
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.qxrewrite, tag=开屏去广告, enabled=true
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/startup/startup.qxrewrite, tag=开屏去广告, enabled=true
 ```

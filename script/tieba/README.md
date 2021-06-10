@@ -22,17 +22,17 @@
 使用模块
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_checkin.sgmodule
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/tieba/tieba_checkin.sgmodule
 ```
 
 ### Quantumult X
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_checkin.qxrewrite, tag=贴吧_获取Cookie, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/tieba/tieba_checkin.qxrewrite, tag=贴吧_获取Cookie, update-interval=86400, opt-parser=false, enabled=true
 
 [task_local]
-30 0 * * *  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_checkin.js, tag=贴吧_每日签到, enabled=true
+30 0 * * *  https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/tieba/tieba_checkin.js, tag=贴吧_每日签到, enabled=true
 ```
 
 ### Loon
@@ -41,14 +41,14 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tie
 
 ```ini
 [Remote Script]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_checkin.lnscript, tag=贴吧_每日签到, enabled=true
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/tieba/tieba_checkin.lnscript, tag=贴吧_每日签到, enabled=true
 ```
 
 ## 获取Cookie
 
 关闭贴吧后台，重新进入一次贴吧即可。
 
-![](https://github.com/blackmatrix7/ios_rule_script/blob/master/script/tieba/images/03.jpg?raw=true)
+![](https://github.com/Kosette/ios_rule_script/blob/master/script/tieba/images/03.jpg?raw=true)
 
 ## 签到
 
@@ -56,11 +56,11 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tie
 
 全部签到成功时：
 
-![](https://github.com/blackmatrix7/ios_rule_script/blob/master/script/tieba/images/01.jpg?raw=true)
+![](https://github.com/Kosette/ios_rule_script/blob/master/script/tieba/images/01.jpg?raw=true)
 
 部分贴吧签到失败时：
 
-![](https://github.com/blackmatrix7/ios_rule_script/blob/master/script/tieba/images/02.jpg?raw=true)
+![](https://github.com/Kosette/ios_rule_script/blob/master/script/tieba/images/02.jpg?raw=true)
 
 ## 统一推送
 
@@ -68,7 +68,7 @@ MagicJS利用Bark，实现了跨设备的统一推送能力，将多个iOS设备
 
 执行效果图，以饿了么为例：
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/images/bark.jpg)
+![](https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/eleme/images/bark.jpg)
 
 ### 开启统一推送
 

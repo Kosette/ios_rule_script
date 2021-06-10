@@ -26,11 +26,11 @@
 ### Shadowrocket 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/HuluJP/HuluJP.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Shadowrocket/HuluJP/HuluJP.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/HuluJP/HuluJP.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Shadowrocket/HuluJP/HuluJP.list
 
 
 

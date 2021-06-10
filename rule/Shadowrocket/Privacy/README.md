@@ -28,15 +28,15 @@
 ### Shadowrocket 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Privacy/Privacy.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Shadowrocket/Privacy/Privacy.list
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Privacy/Privacy_Domain.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Shadowrocket/Privacy/Privacy_Domain.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/Privacy/Privacy.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Shadowrocket/Privacy/Privacy.list
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/Privacy/Privacy_Domain.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Shadowrocket/Privacy/Privacy_Domain.list
 
 
 

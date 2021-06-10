@@ -26,11 +26,11 @@
 ### Loon 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/6JianFang/6JianFang.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Loon/6JianFang/6JianFang.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/6JianFang/6JianFang.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Loon/6JianFang/6JianFang.list
 
 
 

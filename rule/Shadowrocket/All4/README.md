@@ -27,11 +27,11 @@
 ### Shadowrocket 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/All4/All4.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Shadowrocket/All4/All4.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/All4/All4.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Shadowrocket/All4/All4.list
 
 
 

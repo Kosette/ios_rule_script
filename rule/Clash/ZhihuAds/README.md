@@ -9,7 +9,7 @@
 请通过我国(中华人民共和国)合法的互联网出入口信道访问规则中的地址，并确保在使用过程中符合相关法律法规。
 
 ## 规则说明
-本分流规则，需要搭配 https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu 使用。
+本分流规则，需要搭配 https://github.com/Kosette/ios_rule_script/tree/master/script/zhihu 使用。
 
 ## 规则统计
 
@@ -31,12 +31,12 @@
 ### Clash 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ZhihuAds/ZhihuAds.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/Clash/ZhihuAds/ZhihuAds.yaml
 
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ZhihuAds/ZhihuAds.yaml
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/Clash/ZhihuAds/ZhihuAds.yaml
 
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 
 如果你正在使用这些复写规则，建议不要与本项目的知乎广告拦截复写规则混合使用，以免造成规则重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_remove_ads.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/script/zhihu/zhihu_remove_ads.list
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

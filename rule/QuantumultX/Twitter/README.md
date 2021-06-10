@@ -28,11 +28,11 @@
 ### QuantumultX 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Twitter/Twitter.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/QuantumultX/Twitter/Twitter.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Twitter/Twitter.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/QuantumultX/Twitter/Twitter.list
 
 
 
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Twitter.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Twitter.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Twitter/Twitter.list
+- https://raw.githubusercontent.com/Kosette/ios_rule_script/master/source/rule/Twitter/Twitter.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/SNS/Twitter.list
 
 

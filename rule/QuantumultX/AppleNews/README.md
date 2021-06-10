@@ -31,11 +31,11 @@ DOMAIN,gspe1-ssl.ls.apple.com  必要，但会导致「地图」使用「TOMTOM�
 ### QuantumultX 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AppleNews/AppleNews.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/master/rule/QuantumultX/AppleNews/AppleNews.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/AppleNews/AppleNews.list
+https://raw.githubusercontent.com/Kosette/ios_rule_script/release/rule/QuantumultX/AppleNews/AppleNews.list
 
 
 
